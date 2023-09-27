@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# UI5 Web Components for React App
+
+This project was created during devtoberfest 2023.
+The app is based on the following Tutorials:
+[Get Started with UI5 Web Components for React](https://developers.sap.com/tutorials/ui5-webcomponents-react-introduction.html)
+[Create a Card Component](https://developers.sap.com/tutorials/ui5-webcomponents-react-card.html)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
